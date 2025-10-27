@@ -1,12 +1,9 @@
-# Laptop-Price-Analysis
 # 💻 Laptop Sales Data Analysis
 
 ## 📊 Project Overview
 
 This project analyzes a dataset containing laptop sales information, focusing on identifying patterns in pricing, hardware specifications, and brand performance.
 The goal is to derive useful business insights using **Excel**, **SQL**, and **Python** for data cleaning, analysis, and visualization.
-
----
 
 ## 🗂️ Dataset
 
@@ -25,13 +22,11 @@ The goal is to derive useful business insights using **Excel**, **SQL**, and **P
 * **Price:** Selling price (in INR)
 
 ---
-
 ## 🧮 Tools & Technologies
 
 * **Excel** – Data cleaning and preliminary exploration
 * **MySQL** – Querying and aggregating sales insights
 * **Python (Pandas, Matplotlib, Seaborn)** – Data visualization and advanced analytics
-
 ---
 
 ## 🧾 SQL Analysis Summary
@@ -46,7 +41,6 @@ Key queries include:
 6. **Price Range Summary** – Get minimum, maximum, and average laptop prices.
 
 ---
-
 ## 📈 Python Notebook (`Laptop.ipynb`)
 
 Contains:
